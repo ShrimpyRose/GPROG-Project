@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ai_api_project\\intermediate\\build\\win64\\unrealgame\\inc\\ai_api_project\\uht\\patrolpath.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ai_api_project\\intermediate\\build\\win64\\x64\\ai_api_project\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ai_api_project\\intermediate\\build\\win64\\x64\\unrealgame\\development\\ai_api_project\\definitions.ai_api_project.h",
+            "d:\\unreal projects\\ai_api_project\\source\\ai_api_project\\patrolpath.h",
+            "d:\\unreal projects\\ai_api_project\\intermediate\\build\\win64\\unrealgame\\inc\\ai_api_project\\uht\\patrolpath.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

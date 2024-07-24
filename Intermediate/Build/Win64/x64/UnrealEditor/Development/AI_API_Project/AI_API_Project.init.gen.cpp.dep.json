@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\ai_api_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ai_api_project\\uht\\ai_api_project.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\ai_api_project\\intermediate\\build\\win64\\x64\\ai_api_projecteditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\ai_api_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ai_api_project\\definitions.ai_api_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

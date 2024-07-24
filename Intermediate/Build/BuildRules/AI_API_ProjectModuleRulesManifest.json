@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\AI_API_Project\\Source\\AI_API_Project\\AI_API_Project.Build.cs",
+		"D:\\Unreal Projects\\AI_API_Project\\Source\\AI_API_Project.Target.cs",
+		"D:\\Unreal Projects\\AI_API_Project\\Source\\AI_API_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
